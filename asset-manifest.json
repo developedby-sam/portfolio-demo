@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/portfolio-demo/static/js/main.114f7576.chunk.js",
+    "main.js.map": "/portfolio-demo/static/js/main.114f7576.chunk.js.map",
+    "runtime-main.js": "/portfolio-demo/static/js/runtime-main.e0c8dd57.js",
+    "runtime-main.js.map": "/portfolio-demo/static/js/runtime-main.e0c8dd57.js.map",
+    "static/js/2.38191818.chunk.js": "/portfolio-demo/static/js/2.38191818.chunk.js",
+    "static/js/2.38191818.chunk.js.map": "/portfolio-demo/static/js/2.38191818.chunk.js.map",
+    "static/js/3.a09ca93f.chunk.js": "/portfolio-demo/static/js/3.a09ca93f.chunk.js",
+    "static/js/3.a09ca93f.chunk.js.map": "/portfolio-demo/static/js/3.a09ca93f.chunk.js.map",
+    "index.html": "/portfolio-demo/index.html",
+    "static/js/2.38191818.chunk.js.LICENSE.txt": "/portfolio-demo/static/js/2.38191818.chunk.js.LICENSE.txt",
+    "static/media/aen.8563056d.png": "/portfolio-demo/static/media/aen.8563056d.png",
+    "static/media/arrow-down.3e4e80a9.svg": "/portfolio-demo/static/media/arrow-down.3e4e80a9.svg",
+    "static/media/arrow.83230806.svg": "/portfolio-demo/static/media/arrow.83230806.svg",
+    "static/media/beat-maker.66dafdde.png": "/portfolio-demo/static/media/beat-maker.66dafdde.png",
+    "static/media/blog-cover.b5e6ec9c.png": "/portfolio-demo/static/media/blog-cover.b5e6ec9c.png",
+    "static/media/blog.84dd3aa3.jpg": "/portfolio-demo/static/media/blog.84dd3aa3.jpg",
+    "static/media/coloors.98f9350d.png": "/portfolio-demo/static/media/coloors.98f9350d.png",
+    "static/media/cover.c9e37b0d.png": "/portfolio-demo/static/media/cover.c9e37b0d.png",
+    "static/media/elena-joy.8af8bedd.png": "/portfolio-demo/static/media/elena-joy.8af8bedd.png",
+    "static/media/mooon-light.264b365c.png": "/portfolio-demo/static/media/mooon-light.264b365c.png",
+    "static/media/mooon-light.88fb1e1e.png": "/portfolio-demo/static/media/mooon-light.88fb1e1e.png",
+    "static/media/musify.fc9ae1ab.png": "/portfolio-demo/static/media/musify.fc9ae1ab.png",
+    "static/media/pygame.be3a7f6b.png": "/portfolio-demo/static/media/pygame.be3a7f6b.png",
+    "static/media/space-invaders.1fbcb549.png": "/portfolio-demo/static/media/space-invaders.1fbcb549.png",
+    "static/media/travel-project.3f132cb7.png": "/portfolio-demo/static/media/travel-project.3f132cb7.png",
+    "static/media/travelly.9d702830.png": "/portfolio-demo/static/media/travelly.9d702830.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0c8dd57.js",
+    "static/js/2.38191818.chunk.js",
+    "static/js/main.114f7576.chunk.js"
+  ]
+}
